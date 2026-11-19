@@ -1,0 +1,10 @@
+{
+  "name": "SignBridge",
+  "description": "AI Sign Language Recognition and Translation System using MediaPipe Hands and Web Speech API.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
